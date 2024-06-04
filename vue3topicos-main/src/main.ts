@@ -18,7 +18,7 @@ axios.interceptors.request.use(config => {
 
 import './assets/main.css'
 
-axios.defaults.baseURL = 'https://8080-mineda-springboot3topic-lnqt3kpet6n.ws-us114.gitpod.io/';
+axios.defaults.baseURL = 'https://8080-laaridiniz-prova-gd33prn3o34.ws-us114.gitpod.io/';
 
 const app = createApp(App)
 
